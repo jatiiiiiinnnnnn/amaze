@@ -1,0 +1,39 @@
+.talentconsulting-container{
+    padding-top: 122px;
+    display: flex;
+    height: 755px;
+    border-bottom: 0.5px solid rgb(27, 27, 27);
+    justify-content: center;
+    
+}
+.talentconsulting-title{
+    height: 209px;
+    width: 668px;
+    padding-left: 32px;
+    background-color: rgba(130, 118, 254, 1);
+    display: inline-block;
+}
+.talentconsulting-right{
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+
+.image-1{
+    display: inline-block;   
+    width: 100%;
+}
+
+.image-1 img{
+    width: 90%;
+    height: 710px;
+    display: block;
+    
+    object-fit: cover;
+}
+.title-talent{
+    font-family: "Montserrat", sans-serif;
+    font-size: 48px;
+    color: rgba(247, 249, 249, 1);
+}
